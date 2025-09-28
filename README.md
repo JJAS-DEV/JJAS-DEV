@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<img width="927" height="231" alt="image" src="https://github.com/user-attachments/assets/641aac5a-19fc-471e-9acc-aef7484723f9" />
+
 **JJAS-DEV/JJAS-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
