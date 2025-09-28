@@ -5,10 +5,15 @@
 <div>
   <h1 >JJAS-DEV</h1>
 <p>Desarrollador Full Stack con enfoque backend, resiliente y autodidacta, en transición activa hacia roles IT. Ingeniero de Sistemas. Experiencia en desarrollo de APIs REST con Java y Spring Boot, incluyendo autenticación y autorización con Spring Security y JWT. Integración de frontend funcional con Angular y JavaScript, y manejo de bases de datos relacionales.</p>
-  Portfolio: <a> https://jonathanayona.netlify.app </a>
-<br>
-  linkedin: <a>https://www.linkedin.com/in/ing-jonathan-ayona/</a>
-
+ <div style="display: flex; justify-content: center; gap: 20px;">
+    
+  <a   target="_blank" href="https://www.linkedin.com/in/ing-jonathan-ayona/"> <img width="50px" height="50px" alt="www.linkedin.com" src="https://github.com/user-attachments/assets/d067cf15-7c1f-4c17-ad4f-082d1e19ffd1" /></a>     <a  target="_blank" href="https:https://jonathanayona.netlify.app"> <img width="50px" height="50px" alt="portfolio" src="https://github.com/user-attachments/assets/9e9395fb-daf9-42c2-931e-0dce23181927" />
+</a>  
 </div>
+
+
+
+
+
 
 
